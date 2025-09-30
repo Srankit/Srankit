@@ -1,18 +1,57 @@
-👨‍💻 Hi there! I'm Ankit Dubey 👋
-React.js & MERN Stack Developer | Performance Optimization Enthusiast
-A highly skilled React.js Developer with 2.5 years of practical experience specializing in the MERN stack and TypeScript. I focus on building scalable, user-centric web and cross-platform applications. My passion lies in driving performance and delivering robust solutions that handle high-traffic environments.
+<div align="center">
+  <h1>Hey there, I'm Ankit Dubey 👋</h1>
+  <h3>React.js & MERN Stack Developer | 2.5+ Years of Experience</h3>
+</div>
 
-<!--
-**Srankit/Srankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **scaling high-performance web applications** and **optimizing Core Web Vitals** for enhanced user experience.  
+- 🌱 Exploring **advanced TypeScript patterns** and **serverless architectures** to build highly scalable backend solutions.  
+- 👯 Open to collaborating on **innovative cross-platform mobile apps** (with Capacitor) and **large-scale frontend performance optimization** projects.  
+- 🤔 Seeking insights into **micro-frontend architecture best practices**.  
+- 💬 Ask me about **React Hooks, Redux Toolkit, Node.js API design,** or **strategies to boost application performance by 40%**.  
+- 📫 Reach me at: 📧 **[Your Email]** | 📞 **+91-7291949449** | 🔗 **[Your Medium Profile]**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: Improved app performance by **40%**, enabling **10,000+ concurrent users**—while keeping the UI fully responsive!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Snapshot of My Expertise  
+
+I am a **results-driven React.js Developer** with 2.5 years of experience building **scalable, user-centric web and cross-platform mobile applications**. My expertise lies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), **Redux Toolkit**, and **TypeScript**, delivering **robust, high-availability solutions**.  
+
+### Key Highlights  
+- ⚡ **Performance:** Boosted React app performance by **40%**, improving Core Web Vitals and engagement.  
+- 📈 **Scalability:** Engineered backend APIs to support **10,000+ concurrent users** under peak loads.  
+- 🧩 **Efficiency:** Built **20+ reusable components**, cutting development time by **30%** and ensuring UI consistency.  
+- 📱 **Mobile:** Delivered cross-platform apps (iOS & Android) using **Capacitor**.  
+- 🤝 Agile/Scrum practitioner with strong collaboration skills across cross-functional teams.  
+
+---
+
+## 🛠️ Tech Stack  
+
+| Category     | Skills & Tools                                                                 |
+|--------------|--------------------------------------------------------------------------------|
+| **Frontend** | React.js, Redux Toolkit, Hooks, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Material-UI, Responsive Design |
+| **Backend**  | Node.js, Express.js, REST APIs, JWT, Firebase, MongoDB, MySQL                  |
+| **Mobile**   | Capacitor (Cross-platform deployment)                                          |
+| **Workflow** | Git, GitHub, Postman, Webpack, Babel, Vercel, Agile/Scrum, CI/CD               |
+
+---
+
+## 💡 Featured Projects  
+
+### 🚘 **Car Advisor** (Feb 2025 – May 2025)  
+- Developed an **AI-powered car recommendation platform** using **React.js** (frontend) and **Node.js APIs** (backend).  
+- Deployed as a **cross-platform mobile app** with **Capacitor** (Android & iOS).  
+
+### 🌊 **MarinePALS** (Oct 2022 – Sep 2023)  
+- Built a **role-based training & task management platform** with a **React.js frontend** and secure **REST APIs**.  
+- Implemented **real-time updates** and **performance monitoring** for admins and learners.  
+
+### 🏝️ **Abu Dhabi Marine Times** (Sep 2023 – Sep 2024)  
+- Developed a **Training & Certification Management System** featuring **task-based micro-learning**.  
+- Built with **React.js frontend** + **Node.js/Express backend**, enabling **role-based access control** and **progress tracking**.  
+
+---
