@@ -3,17 +3,18 @@
   <h1>Hey there, I'm Ankit Dubey 👋</h1>
   <h3>React.js & MERN Stack Developer | 2.5+ Years of Experience</h3>
 
-  <!-- Social Badges -->
+  <!-- Social Icons -->
   <a href="https://www.linkedin.com/in/ankit-dubey-15872a165" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin:5px"/>
   </a>
   <a href="https://medium.com/@DubeyAnkitSarar" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" alt="Medium" width="30" height="30" style="margin:5px"/>
   </a>
   <a href="https://www.youtube.com/channel/UCQJqVpJLImDdb8po9XuzmIA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" alt="YouTube" width="30" height="30" style="margin:5px"/>
   </a>
 </div>
+
 
 ---
 
