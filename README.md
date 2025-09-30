@@ -1,6 +1,18 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/Srankit?v=4" alt="Ankit Dubey" width="150" style="border-radius:50%;" />
   <h1>Hey there, I'm Ankit Dubey 👋</h1>
   <h3>React.js & MERN Stack Developer | 2.5+ Years of Experience</h3>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/ankit-dubey-15872a165" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@DubeyAnkitSarar" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCQJqVpJLImDdb8po9XuzmIA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
 ---
@@ -10,7 +22,7 @@
 - 👯 Open to collaborating on **innovative cross-platform mobile apps** (with Capacitor) and **large-scale frontend performance optimization** projects.  
 - 🤔 Seeking insights into **micro-frontend architecture best practices**.  
 - 💬 Ask me about **React Hooks, Redux Toolkit, Node.js API design,** or **strategies to boost application performance by 40%**.  
-- 📫 Reach me at: 📧 **[Your Email]** | 📞 **+91-7291949449** | 🔗 **[Your Medium Profile]**  
+- 📫 Reach me at: 📧 **dubeyankitsarar142@gmail.com** | 📞 **+91-7291949449**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: Improved app performance by **40%**, enabling **10,000+ concurrent users**—while keeping the UI fully responsive!  
 
@@ -53,5 +65,3 @@ I am a **results-driven React.js Developer** with 2.5 years of experience buildi
 ### 🏝️ **Abu Dhabi Marine Times** (Sep 2023 – Sep 2024)  
 - Developed a **Training & Certification Management System** featuring **task-based micro-learning**.  
 - Built with **React.js frontend** + **Node.js/Express backend**, enabling **role-based access control** and **progress tracking**.  
-
----
