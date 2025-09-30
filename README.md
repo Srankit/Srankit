@@ -1,4 +1,6 @@
-## Hi there 👋
+👨‍💻 Hi there! I'm Ankit Dubey 👋
+React.js & MERN Stack Developer | Performance Optimization Enthusiast
+A highly skilled React.js Developer with 2.5 years of practical experience specializing in the MERN stack and TypeScript. I focus on building scalable, user-centric web and cross-platform applications. My passion lies in driving performance and delivering robust solutions that handle high-traffic environments.
 
 <!--
 **Srankit/Srankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
