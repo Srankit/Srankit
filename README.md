@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Srankit?v=4" alt="Ankit Dubey" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/90557104?v=4&size=64" alt="Ankit Dubey" width="150" style="border-radius:50%;" />
   <h1>Hey there, I'm Ankit Dubey 👋</h1>
   <h3>React.js & MERN Stack Developer | 2.5+ Years of Experience</h3>
 
