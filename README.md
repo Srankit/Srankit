@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   <!-- Profile Image -->
   <img 
@@ -121,4 +121,66 @@ I'm a **results-driven MERN Stack Developer** with 2.5+ years of experience buil
   
 ![Visitor Count](https://profile-counter.glitch.me/DubeyAnkitSarar/count.svg)
 
+</div> -->
+
+
+<div align="center">
+
+<!-- Profile Image with Enhanced Styling -->
+<img 
+  src="https://avatars.githubusercontent.com/u/90557104?v=4" 
+  alt="Ankit Dubey - MERN Stack Developer" 
+  width="180"
+  style="border-radius: 50%; border: 4px solid #61dafb; box-shadow: 0 0 20px rgba(97, 218, 251, 0.3);"
+/>
+
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm <strong style="color: #61dafb;">Ankit Dubey</strong> 👨‍💻
+</h1>
+
+<h3 style="color: #888;">
+  ⚡ React.js Specialist | MERN Stack Developer | Performance Optimizer
+</h3>
+
+<!-- Animated Social Icons -->
+<div>
+  <a href="https://www.linkedin.com/in/ankit-dubey-15872a165" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/>
+  </a>
+  <a href="https://medium.com/@DubeyAnkitSarar" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="35"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCQJqVpJLImDdb8po9XuzmIA" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="35"/>
+  </a>
+  <a href="mailto:dubeyankitsarar142@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="35"/>
+  </a>
 </div>
+
+<br/>
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=DubeyAnkitSarar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubeyAnkitSarar&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 About Me
+
+```javascript
+const ankit = {
+  role: "Senior React.js Developer",
+  experience: "2.5+ years",
+  focus: ["Performance Optimization", "Scalable Architecture", "User Experience"],
+  currentFocus: "Core Web Vitals & Advanced TypeScript",
+  achievements: [
+    "Optimized app for 10,000+ concurrent users",
+    "40% performance improvement in production apps",
+    "Built cross-platform mobile apps with Capacitor"
+  ],
+  passion: "Creating high-performance, user-centric web applications"
+};
