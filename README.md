@@ -50,7 +50,13 @@ I'm a **results-driven MERN Stack Developer** passionate about building
 - ⚡ Fun Fact → Optimized an app for **10,000+ concurrent users** with a **40% performance boost**
 
 📩 **Email:** `dubeyankitsarar142@gmail.com`  
-📞 **Phone:** `+91-72919-49449`
+📞 **Phone:** `+91-72919-49449`  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/ankit-dubey-15872a165  
+
+📝 **Medium:**  
+https://medium.com/@DubeyAnkitSarar  
 
 ---
 
@@ -132,5 +138,3 @@ I'm a **results-driven MERN Stack Developer** passionate about building
 ![Visitor Count](https://profile-counter.glitch.me/DubeyAnkitSarar/count.svg)
 
 </div>
-
----
