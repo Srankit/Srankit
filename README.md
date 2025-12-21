@@ -86,7 +86,7 @@ https://medium.com/@DubeyAnkitSarar
 
 ## 🚀 Featured Projects
 
-### 🚘 **Car Advisor** *(Feb 2025 – May 2025)*
+### 🚘 **Car Advisor** *(Dec 2024 – May 2025)*
 > AI-powered car recommendation system  
 ✔ React.js UI + Node.js APIs  
 ✔ Capacitor Android/iOS Build
