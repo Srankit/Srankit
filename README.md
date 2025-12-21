@@ -67,7 +67,7 @@ https://medium.com/@DubeyAnkitSarar
 <div align="center">
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,redux,next,js,ts,html,css,bootstrap,tailwind,materialui" />
 
 ### **Backend / Database**
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,firebase" />
