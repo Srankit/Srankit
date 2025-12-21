@@ -1,3 +1,6 @@
+
+
+
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
@@ -9,23 +12,23 @@
     style="border-radius:50%; border: 4px solid #6EE7B7;"
   />
 
-  <h1 align="center" style="font-size: 42px;">
+  <h1 align="center" style="font-size: 40px;">
     👋 Hi, I'm <strong>Ankit Dubey</strong>
   </h1>
 
   <h3 align="center">
-    🚀 React.js & MERN Stack Developer | 2+ Years of Experience
+    Software Developer | React.js Developer | MERN Stack
   </h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ankit-dubey-15872a165" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+      <img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
+    </a>
+    <a href="mailto:dubeyankitsarar142@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="38"/>
     </a>
     <a href="https://medium.com/@DubeyAnkitSarar" target="_blank">
-      <img src="https://skillicons.dev/icons?i=devto" width="40"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCQJqVpJLImDdb8po9XuzmIA" target="_blank">
-      <img src="https://skillicons.dev/icons?i=youtube" width="40"/>
+      <img src="https://skillicons.dev/icons?i=devto" width="38"/>
     </a>
   </p>
 
@@ -33,83 +36,107 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
-
 ## 👨‍💻 About Me
 
-I am a **results-driven MERN Stack Developer** with **2+ years of experience** building  
-**scalable, high-performance, and user-centric web applications**.
+Frontend-focused **React.js Developer** with **2+ years of professional experience** in **MERN stack development**, specializing in building **scalable, high-performance, and user-centric web applications**.
 
-### ✨ Professional Highlights
-- 🔭 Focused on **Core Web Vitals, performance optimization, and scalable architectures**
-- 🌱 Actively learning **advanced TypeScript patterns and serverless systems**
-- 👯 Open to collaboration on **micro-frontends and cross-platform apps (Capacitor)**
-- ⚙️ Strong experience with **React.js, Redux Toolkit, Node.js, NestJS, MongoDB**
-- ⚡ Optimized applications for **10,000+ concurrent users**, achieving a **40% performance improvement**
+I have strong expertise in **React.js, Next.js, JavaScript, Redux Toolkit**, and modern UI frameworks, along with hands-on experience in **Node.js, NestJS, Express.js, REST APIs, JWT authentication, and MongoDB/MySQL**.  
+I follow **OOP principles**, clean architecture, and modular design to deliver maintainable and scalable solutions in **Agile environments**.
 
+📍 Prayagraj, Uttar Pradesh, India  
 📧 **Email:** `dubeyankitsarar142@gmail.com`  
-📞 **Phone:** `+91-72919-49449`
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/ankit-dubey-15872a165  
-
-📝 **Medium:**  
-https://medium.com/@DubeyAnkitSarar  
+📞 **Phone:** `+91-72919-49449`  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ankit-dubey-15872a165  
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,next,js,ts,html,css,bootstrap,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,html,css,tailwind,bootstrap" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,firebase" />
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
-### Mobile
-<img src="https://capacitorjs.com/assets/images/branding/capacitor-logo-mark.svg" width="55"/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,webpack,babel,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
+
+### Mobile
+<img src="https://capacitorjs.com/assets/images/branding/capacitor-logo-mark.svg" width="50"/>
 
 </div>
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+## 💼 Professional Experience
 
-## 🚀 Featured Projects
-
-### 🚘 Car Advisor *(Dec 2024 – May 2025)*
-**AI-Powered Car Recommendation Platform**  
-- Developed an AI-driven car recommendation system using **React.js, Node.js, NestJS, and REST APIs**
-- Designed a **modular backend architecture** leveraging NestJS modules, services, and controllers
-- Improved user engagement by **30%** through intelligent recommendations and UI optimization
-- Followed **OOP principles** to ensure scalability and maintainability
-
----
-
-### 🌊 MarinePALS *(Oct 2022 – Sep 2023)*
-**Role-Based LMS & Task Management System**  
-- Built a task management and progress-tracking platform using **React.js** for trainers and cadets
-- Integrated **REST APIs** to enable real-time updates and secure role-based access
-- Improved operational efficiency and user experience by streamlining UI flows and navigation
+### **Software Developer — MaxRidge Pvt. Ltd, Noida**
+**Dec 2024 – May 2025**
+- Developed and optimized responsive UI components using **React.js and Tailwind CSS**, improving performance by **30%**
+- Integrated frontend with **RESTful APIs** using **Node.js, NestJS, and Express.js**
+- Applied **OOP principles** with NestJS controllers, services, and modules
+- Refactored reusable UI and service-layer code for scalability
+- Ensured cross-browser compatibility and responsive design
+- Contributed to **mobile app deployment using Capacitor (Android & iOS)**
 
 ---
 
-### 🏝️ Abu Dhabi Marine Times *(Sep 2023 – Sep 2024)*
-**Training & Certification Micro-Learning Platform**  
-- Developed a complete **training and certification management system** using React.js and Node.js
-- Implemented automated workflows for **evaluation, assessment, and role-based access control**
-- Enhanced operational efficiency for trainers and cadets through workflow automation
+### **Software Developer — Alphamate Technologies, Noida**
+**Oct 2022 – Sep 2024**
+- Designed reusable **React components**, reducing UI development time by **25%**
+- Implemented **lazy loading and code splitting**, improving load time by **35%**
+- Built responsive UIs using **Tailwind CSS and Bootstrap**
+- Integrated **Node.js, Express.js, and MySQL APIs**
+- Used **OOP and clean architecture principles** to maintain modular codebases
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+### **MERN Stack Intern — Chetu Inc, Noida**
+**Jan 2022 – Jun 2022**
+- Developed full-stack features using **React.js, Node.js, and Express.js**
+- Built **REST APIs** with **JWT authentication** and **MongoDB** integration
+- Enhanced application functionality and user experience
+
+---
+
+## 🚀 Key Projects
+
+### 🚘 **Car Advisor** *(Feb 2025 – May 2025 | Remote)*
+**AI-Based Recommendation System**
+- Built an AI-powered car recommendation platform using **React.js, Node.js, NestJS, and REST APIs**
+- Designed a **modular backend architecture** with NestJS modules, services, and controllers
+- Improved user engagement by **30%** through intelligent suggestions and UI optimization
+- Implemented scalable and maintainable code following **OOP principles**
+
+---
+
+### 🛒 **E-Commerce Platform** *(Dec 2024 – Feb 2025 | Remote)*
+- Developed interactive UI features using **React.js** to enhance cross-device user experience
+- Optimized application load time using **code optimization, caching, and efficient state management**
+- Built reusable frontend components and integrated backend APIs
+
+---
+
+### 🏝️ **Abu Dhabi Marine Times** *(Sep 2023 – Sep 2024 | On-Site)*
+**Training & Certification Management System**
+- Developed a full training lifecycle management system using **React.js and Node.js**
+- Automated workflows for **evaluation, assessment, and role-based access control**
+- Improved operational efficiency for trainers and cadets
+
+---
+
+### 🌊 **Marine PALS** *(Oct 2022 – Sep 2023 | On-Site)*
+**Task Management System**
+- Built a task management and progress-tracking platform using **React.js**
+- Integrated **REST APIs** for real-time updates and role-based access
+- Improved usability by optimizing UI flows and navigation
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -128,8 +155,6 @@ https://medium.com/@DubeyAnkitSarar
 </div>
 
 ---
-
-<!-- ========================= VISITOR COUNT ========================= -->
 
 ## 👀 Visitor Count
 
