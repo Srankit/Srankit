@@ -88,24 +88,25 @@ https://medium.com/@DubeyAnkitSarar
 
 ### 🚘 **Car Advisor** *(Dec 2024 – May 2025)*
 > AI-powered car recommendation system  
-✔ React.js UI + Node.js APIs  
-✔ Capacitor Android/iOS Build
+✔ Built an AI-powered car recommendation platform using React.js, Node.js, NestJS, and REST APIs
+✔ Created a modular backend using NestJS modules, services, and controllers
+✔ Improved user engagement by 30% through intelligent suggestions and optimized UI
+✔ Implemented scalable, maintainable code following OOP principl
 
 ---
 
 ### 🌊 **MarinePALS** *(Oct 2022 – Sep 2023)*
 > Role-based LMS & task management  
-✔ Secure REST APIs  
-✔ Real-time notifications  
-✔ Admin dashboards  
+✔ Created a task management and progress-tracking platform using React.js, enabling trainers and cadets to manage tasks efficiently
+✔ Integrated REST APIs for trainers and cadets, supporting real-time task updates and role-based data access
+✔ Enhanced operational efficiency and user experience by optimizing UI flows, reducing navigation complexity and improving usability  
 
 ---
 
 ### 🏝️ **Abu Dhabi Marine Times** *(Sep 2023 – Sep 2024)*
 > Training & Certification Micro-Learning System  
-✔ RBAC, Progress Tracking  
-✔ Task Pipelines  
-✔ Optimized MERN Stack app
+✔ Created a full Training & Certification Management System using React.js and Node.js, supporting training lifecycle management
+✔ Created automated workflows for evaluation, assessment, and role-based access control, improving operational efficiency for trainers and cadets
 
 ---
 
