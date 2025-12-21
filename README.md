@@ -14,7 +14,7 @@
   </h1>
 
   <h3 align="center">
-    🚀 React.js & MERN Stack Developer | 2.5+ Years of Experience
+    🚀 React.js & MERN Stack Developer | 2+ Years of Experience
   </h3>
 
   <p align="center">
@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **results-driven MERN Stack Developer** with **2.5+ years of experience** building  
+I am a **results-driven MERN Stack Developer** with **2+ years of experience** building  
 **scalable, high-performance, and user-centric web applications**.
 
 ### ✨ Professional Highlights
