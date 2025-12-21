@@ -70,7 +70,7 @@ https://medium.com/@DubeyAnkitSarar
 <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,tailwind,materialui" />
 
 ### **Backend / Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,firebase" />
 
 ### **Mobile**
 <img src="https://capacitorjs.com/assets/images/branding/capacitor-logo-mark.svg" width="60"/>
