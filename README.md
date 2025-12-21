@@ -97,9 +97,9 @@ https://medium.com/@DubeyAnkitSarar
 
 ### 🌊 **MarinePALS** *(Oct 2022 – Sep 2023)*
 > Role-based LMS & task management  
-✔ Created a task management and progress-tracking platform using React.js, enabling trainers and cadets to manage tasks efficiently
-✔ Integrated REST APIs for trainers and cadets, supporting real-time task updates and role-based data access
-✔ Enhanced operational efficiency and user experience by optimizing UI flows, reducing navigation complexity and improving usability  
+✔ Created a task management and progress-tracking platform using React.js, enabling trainers and cadets to manage tasks efficiently.
+✔ Integrated REST APIs for trainers and cadets, supporting real-time task updates and role-based data access.
+✔ Enhanced operational efficiency and user experience by optimizing UI flows, reducing navigation complexity and improving usability.
 
 ---
 
